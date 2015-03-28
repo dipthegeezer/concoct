@@ -1,7 +1,7 @@
 package api
 
 import (
-	packer "github.com/mitchellh/packer/packer"
+	"github.com/mitchellh/packer/packer"
 	cmdcommon "github.com/mitchellh/packer/common/command"
 	"fmt"
 	"log"

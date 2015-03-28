@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"github.com/mitchellh/packer/packer"
 	"github.com/mitchellh/packer/packer/plugin"
-	"./api"
+	"./packer/api"
 )
 
 func packerMeta() api.Meta {
